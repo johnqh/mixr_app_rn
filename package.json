@@ -1,5 +1,6 @@
 {
   "dependencies": {
     "@react-native-segmented-control/segmented-control": "^2.5.7"
-  }
+  },
+  "version": "0.0.1"
 }
